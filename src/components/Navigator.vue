@@ -2,7 +2,7 @@
  * @Author: Hujianbo
  * @Date: 2021-10-09 00:02:30
  * @LastEditors: Hujianbo
- * @LastEditTime: 2021-10-09 00:26:02
+ * @LastEditTime: 2021-10-12 01:03:38
  * @FilePath: /talking-frontend/src/components/Navigator.vue
 -->
 <template>
@@ -17,7 +17,6 @@ export default defineComponent ({
   name: 'Navigator',
   components: {Login},
   setup(){
-    console.log('navigator');
   }
 })
 </script>

@@ -22,6 +22,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.14.8",
+    "@linusborg/vue-simple-portal": "^0.1.5",
     "babel-loader": "^8.2.2",
     "css-loader": "^6.2.0",
     "file-loader": "^1.1.11",
